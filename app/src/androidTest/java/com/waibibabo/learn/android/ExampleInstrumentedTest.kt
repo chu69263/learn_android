@@ -1,4 +1,4 @@
-package com.waibibabo.learn_android
+package com.waibibabo.learn.android
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
